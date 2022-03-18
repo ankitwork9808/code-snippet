@@ -1,4 +1,4 @@
-		// Optimized way to save the sort order to the database using "Sortable Js or Vue draggable next or React beautiful dnd"
+// Optimized way to save the sort order to the database using "Sortable Js or Vue draggable next or React beautiful dnd"
 
     $id = $request->input('id'); //Primary key
     $oldIndex = $request->input('oldIndex'); //old Index by sortable
